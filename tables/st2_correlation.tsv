@@ -1,0 +1,4 @@
+comparison	rho	pvalue
+ST2_prop vs BC_similarity	0.87203302373581	0
+ST2_prop vs weighted_shared_frac	0.721362229102167	0.00104779231119961
+ST2_prop vs Jaccard	0.727554179566563	0.000905343445993362

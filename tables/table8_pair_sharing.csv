@@ -1,0 +1,7 @@
+"hand","hand_site","paired_wfrac","cross_wfrac","paired_bc","cross_bc","paired_jaccard","cross_jaccard","paired_rank_bc","n_sources"
+"CH1_S2","Cattle farm",0.971,0.181,0.894,0.0373,0.358,0.0881,1,8
+"CH2_S4","Cattle farm",0.563,0.387,0.0691,0.0709,0.0965,0.0925,4,8
+"PH1_S6","Poultry farm",0.583,0.698,0.0168,0.0817,0.0721,0.127,6,8
+"PH2_S8","Poultry farm",0.206,0.599,0.00816,0.088,0.0393,0.105,7,8
+"PH3_S10","Poultry farm",0.34,0.84,0.00268,0.117,0.0238,0.107,8,8
+"PH4_S12","Poultry farm",0.181,0.888,0.00831,0.1,0.0481,0.101,5,8

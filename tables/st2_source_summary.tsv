@@ -1,0 +1,7 @@
+sample_id	top_source	top_prop	Cattle	Poultry	Hospital	Unknown	hand_label	hand_site	pair_id
+CH1_S2	Cattle_farm_effluent	0.9525	0.9525	0.00027	0.00309	0.04414	CH1	Cattle farm	C1
+CH2_S4	Hospital_effluent	0.4888	0.20886	0.00058	0.4888	0.30176	CH2	Cattle farm	C2
+PH1_S6	Hospital_effluent	0.66309	0.20222	8e-05	0.66309	0.13461	PH1	Poultry farm	P1
+PH2_S8	Cattle_farm_effluent	0.50164	0.50164	0.08585	0.15241	0.2601	PH2	Poultry farm	P2
+PH3_S10	Hospital_effluent	0.73192	0.18477	0.00017	0.73192	0.08314	PH3	Poultry farm	P3
+PH4_S12	Hospital_effluent	0.87172	0.05874	3e-05	0.87172	0.06951	PH4	Poultry farm	P4

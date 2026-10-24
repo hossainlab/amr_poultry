@@ -1,0 +1,51 @@
+"kw.ep","kw.eBH","glm.ep","glm.eBH","Genus","kw_ep_BH","glm_ep_BH","contrast","rab.all","rab.win.Effluent","rab.win.Hand","diff.btw","diff.win","effect","overlap","we.ep","we.eBH","wi.ep","wi.eBH","we_ep_BH"
+0.0204,0.546,0.00333,0.0646,"Streptococcus",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0454,0.546,0.0136,0.152,"Corynebacterium",0.611,0.428,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0599,0.549,0.0511,0.235,"Limosilactobacillus",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0609,0.546,0.0396,0.221,"Succinivibrio",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0618,0.546,0.00793,0.0902,"Olsenella",0.611,0.317,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0624,0.546,0.00598,0.0749,"Ligilactobacillus",0.611,0.263,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0625,0.546,0.00253,0.0344,"Megasphaera",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0656,0.546,0.0016,0.0345,"Faecalibacterium",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0666,0.546,0.00208,0.0448,"Megamonas",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0667,0.549,0.0537,0.261,"Paeniclostridium",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0671,0.546,0.0181,0.144,"Dorea",0.611,0.497,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0679,0.546,0.00567,0.0651,"Blautia",0.611,0.263,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0684,0.546,0.0158,0.136,"Catenibacterium",0.611,0.462,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0695,0.546,0.00374,0.0589,"Dialister",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0707,0.546,0.046,0.228,"[Eubacterium] hallii group",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0709,0.546,0.00109,0.0281,"Bifidobacterium",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0714,0.546,0.000361,0.015,"Prevotella_9",0.611,0.159,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0716,0.546,0.0303,0.191,"Subdoligranulum",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0719,0.546,0.0289,0.181,"Lachnospira",0.611,0.577,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0723,0.546,0.0209,0.16,"Acidaminococcus",0.611,0.54,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0731,0.55,0.0412,0.219,"Mitsuokella",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0732,0.556,0.0272,0.189,"Deinococcus",0.611,0.577,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0733,0.547,0.0514,0.255,"[Ruminococcus] torques group",0.611,0.58,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0737,0.546,0.0126,0.121,"Agathobacter",0.611,0.426,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0.0737,0.546,0.00405,0.0618,"Collinsella",0.611,0.223,"site",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,"Aeromonas",NA,NA,"sample_type",10.2,4.75,13,6.91,3.51,1.71,0.0468,0.000444,0.126,0.00118,0.126,0.195
+NA,NA,NA,NA,"Lelliottia",NA,NA,"sample_type",2.93,0.303,6.66,6.48,3.84,1.7,0.0104,0.00115,0.143,0.000479,0.0585,0.252
+NA,NA,NA,NA,"Staphylococcus",NA,NA,"sample_type",6.84,-0.201,7.88,8.16,4.8,1.5,0.0208,0.00257,0.224,0.000739,0.069,0.282
+NA,NA,NA,NA,"Enterobacter",NA,NA,"sample_type",8.07,2.77,10.1,6.78,4.84,1.37,0.0571,0.00262,0.225,0.0026,0.173,0.282
+NA,NA,NA,NA,"Arcobacter",NA,NA,"sample_type",5.39,10.2,0.561,-9.91,4.97,-1.84,0.0753,0.00365,0.233,0.00913,0.377,0.282
+NA,NA,NA,NA,"Bacteroides",NA,NA,"sample_type",4.59,6.65,0.587,-5.86,3.02,-1.9,0.00782,0.00396,0.26,0.000937,0.161,0.282
+NA,NA,NA,NA,"Salmonella",NA,NA,"sample_type",4.83,1.93,5.82,4.12,3.07,1.33,0.0675,0.00449,0.266,0.00349,0.172,0.282
+NA,NA,NA,NA,"Kurthia",NA,NA,"sample_type",5.52,2.6,7.77,5.54,5.11,1.21,0.0599,0.00662,0.349,0.00345,0.187,0.364
+NA,NA,NA,NA,"Dechlorobacter",NA,NA,"sample_type",3.26,4.71,-0.179,-5.63,3.68,-1.52,0.0182,0.00776,0.339,0.00214,0.187,0.377
+NA,NA,NA,NA,"Enhydrobacter",NA,NA,"sample_type",5.82,2.6,10.1,6.88,5.26,1.21,0.104,0.00857,0.396,0.00712,0.275,0.377
+NA,NA,NA,NA,"Clostridium sensu stricto 1",NA,NA,"sample_type",4.19,5.62,0.591,-5.06,3.55,-1.34,0.0625,0.0114,0.455,0.00467,0.268,0.432
+NA,NA,NA,NA,"Acidovorax",NA,NA,"sample_type",4.93,6.22,1.47,-4.97,4.02,-1.22,0.0909,0.0118,0.483,0.0057,0.308,0.432
+NA,NA,NA,NA,"Pseudarcobacter",NA,NA,"sample_type",2.9,4.54,0.0964,-4.97,4.18,-1.26,0.0391,0.0128,0.438,0.00665,0.282,0.435
+NA,NA,NA,NA,"Acinetobacter",NA,NA,"sample_type",14,13.8,15.6,2.1,2.1,1.01,0.174,0.0139,0.472,0.0368,0.585,0.436
+NA,NA,NA,NA,"Rothia",NA,NA,"sample_type",2.75,-0.178,6.33,6.69,5.09,1.13,0.112,0.0166,0.493,0.0112,0.331,0.487
+NA,NA,NA,NA,"Phascolarctobacterium",NA,NA,"sample_type",2.54,5.87,0.0556,-5.36,4.4,-1.09,0.109,0.0281,0.517,0.0169,0.46,0.729
+NA,NA,NA,NA,"Christensenellaceae R-7 group",NA,NA,"sample_type",2.33,3.53,-0.12,-3.89,3.5,-1.02,0.0833,0.0304,0.557,0.0221,0.405,0.729
+NA,NA,NA,NA,"Poseidonibacter",NA,NA,"sample_type",2.37,5.73,0.0499,-5.37,4.24,-1.19,0.115,0.0318,0.51,0.0276,0.557,0.729
+NA,NA,NA,NA,"Klebsiella",NA,NA,"sample_type",6.61,3.28,8.25,4.86,5.34,0.827,0.135,0.0323,0.638,0.0185,0.414,0.729
+NA,NA,NA,NA,"Cronobacter",NA,NA,"sample_type",2.1,0.148,5.1,5.31,4.96,1.04,0.141,0.0332,0.571,0.0214,0.406,0.729
+NA,NA,NA,NA,"Comamonas",NA,NA,"sample_type",7.81,8.22,3.28,-5.1,4.49,-0.994,0.174,0.0479,0.885,0.0518,0.846,0.791
+NA,NA,NA,NA,"Flavobacterium",NA,NA,"sample_type",2.88,7.67,1.19,-5.93,7.2,-0.734,0.195,0.0665,0.892,0.0933,0.872,0.791
+NA,NA,NA,NA,"Citrobacter",NA,NA,"sample_type",4.27,1.83,5.88,4.27,4.58,0.783,0.169,0.0694,0.722,0.0338,0.526,0.791
+NA,NA,NA,NA,"Empedobacter",NA,NA,"sample_type",5.37,2.32,8.54,5.47,5.7,0.893,0.182,0.0746,0.785,0.0414,0.582,0.791
+NA,NA,NA,NA,"Wautersiella",NA,NA,"sample_type",3.25,-0.0313,5.76,5.19,5.38,0.815,0.161,0.0751,0.687,0.0413,0.549,0.791

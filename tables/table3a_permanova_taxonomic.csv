@@ -1,0 +1,4 @@
+"distance","site_R2","site_F","site_p","type_R2","type_p","permdisp_site_p","permdisp_type_p","profile"
+"Bray-Curtis",0.196450007133573,1.34462702859393,0.0497,0.126380390960339,0.0141,0.2468,0.028,"Taxonomic (ASV)"
+"Weighted UniFrac",0.137082652304271,0.873727466120363,0.572,0.26924823243584,0.0012,0.1823,0.3318,"Taxonomic (ASV)"
+"Unweighted UniFrac",0.19640719794489,1.34426239997955,0.0999,0.243859838622367,5e-04,0.0273,1e-04,"Taxonomic (ASV)"
